@@ -24,17 +24,11 @@ It is a real-time code collaboration web application that allows multiple users 
 
 If you want to run CodeCast locally or contribute to its development, follow these steps:
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/codecast.git
-   cd codecast
-   ```
-2. Install dependencies:
+1. Install dependencies:
    ```
    npm install
    ```
-3. Start the development server:
+2. Start the development server:
    ```
    npm start
    ```
